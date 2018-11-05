@@ -3,7 +3,7 @@
 Echo Client and Server Classes
 
 T. D. Todd
-McMaster University
+McMaster Universitys
 
 to create a Client: "python EchoClientServer.py -r client" 
 to create a Server: "python EchoClientServer.py -r server" 
